@@ -3,6 +3,13 @@
     padding: 0px;
     margin: 0px;
 }
+/* navbar */
+
+
+
+
+
+/* navbar */
 
 /* image1 */
 .menuback1 {
@@ -22,7 +29,7 @@
     /* margin: 0 auto; */
     color:black;
     font-family: 'Courier New', Courier, monospace;
-    padding-left: 400px;
+    padding-left: 200px;
     padding-right: 100px;
     align-items: center;
     font-style: inherit;
@@ -36,7 +43,7 @@
     /* margin: 0 auto; */
     color:black;
     font-family: 'Courier New', Courier, monospace;
-    padding-left: 400px;
+    padding-left: 200px;
     padding-right: 100px;
     align-items: center;
     font-style: inherit;
@@ -159,4 +166,40 @@
     margin-top: 35  px;
     width: 500px;
     margin-right: 200px;
+}   
+
+/* .footer1 {
+    background-color: red;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 250px;
+    width: 100%;
+    width: 1000px;
+   
+}    */
+
+.footer1 {
+    background-color: silver;
+    height: 150px;
+  
+    
+}
+
+.footer1 i{
+ 
+    font-size: 35px;
+    padding-left: 100px;
+    padding-top: 50px;
+    
+}
+
+.footer2 {
+    background-color: #f7f7f7;
+}
+
+.footer2 p{
+    padding-left: 50px;
+    font-size: 15px;
+
 }
