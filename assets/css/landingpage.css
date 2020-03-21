@@ -1,0 +1,89 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.megatron {
+    background-image: url(/assets/img/erfan-starbucks-colabpic/menu\ background1.jpg);
+}
+
+.container {
+    position: relative;
+    color: white;
+}
+
+
+.images1 {
+    background: url(/assets/img/erfan-starbucks-colabpic/landing1.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: auto;
+    width: 100%;
+}
+
+.images2 {
+    background: url(/assets/img/erfan-starbucks-colabpic/landing2.jpg.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: auto;
+    width: 100%;
+}
+.images3 {
+    background-image: url(/assets/img/erfan-starbucks-colabpic/landing\ 3.jpg);
+    min-width: auto;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 550px;
+    width: 100%;
+}
+
+.images3text p {
+    text-align: center;
+    font-size: 20px;
+    /* margin: 0 auto; */
+    margin-top: 220px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+.images4 {
+    background-image: url(/assets/img/erfan-starbucks-colabpic/landing4.jpg);
+    min-width: auto;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 550px;
+    width: 100%;
+}
+
+.images4text p {
+    text-align: center;
+    font-size: 20px;
+    /* margin: 0 auto; */
+    margin-top: 220px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.images5 {
+    background-image: url(/assets/img/erfan-starbucks-colabpic/landing5.jpg);
+    min-width: auto;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 550px;
+    width: 100%;
+}
+
+.images5text p {
+    text-align: center;
+    font-size: 20px;
+    /* margin: 0 auto; */
+    margin-top: 220px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
