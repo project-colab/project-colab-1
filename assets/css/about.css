@@ -1,5 +1,6 @@
+/*about*/
 .body {
-    display: block;
+    min-width: fit-content;
     padding-left: 20px;
     box-sizing: border-box;
 }
@@ -8,8 +9,16 @@
     color: green;
 }
 
+
 .link {
     color: white;
+    text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: none;
+  color: white;
+  background-color: green;
 }
 
 .side-box {
@@ -25,9 +34,30 @@
 .row:after {
     content: "";
     display: table;
-    clear: both;
+    padding-top: 15px;
+    padding-bottom: 15px;
   }
-  
+
+/*rewards*/
+
+.p {
+    text-align: justify;
+}
+
+/* .hrreward {
+  border-top: 5px solid #000000 !important;
+} */
+
+.row-3 {
+  border-style: solid;
+  margin: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-top-width: 5px;
+  border-bottom-width: 5px;
+  border-left: none;
+  border-right: none;
+}
 @media screen and (max-width: 900px) {
     .column  {
       width: 50%;
