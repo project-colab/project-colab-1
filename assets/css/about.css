@@ -1,0 +1,41 @@
+.body {
+    display: block;
+    padding-left: 20px;
+    box-sizing: border-box;
+}
+
+.font-color {
+    color: green;
+}
+
+.link {
+    color: white;
+}
+
+.side-box {
+    background-color: black;
+}
+    
+.column {
+    float: left;
+    width: 25%;
+    padding: 10px;
+  }
+  
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+@media screen and (max-width: 900px) {
+    .column  {
+      width: 50%;
+    }
+  }
+  
+@media screen and (max-width: 600px) {
+    .column  {
+      width: 100%;
+    }
+  }
